@@ -6,7 +6,7 @@ using System;
 
 namespace Ex15
 {
-    class Program
+    class Ex15
     {
         static void Main(string[] args)
         {
